@@ -1,1 +1,1 @@
-# JCL-Metrics-Tool creates useful statistics on JCL and PROC.
+# JCL-Metrics-Tool creates useful statistics about Mainframe JCL. The stats includes LOC, Commented Lines, Step Count etc. 
